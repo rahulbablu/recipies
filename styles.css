@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(250, 249, 239);
+}
+
+.heading {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(223, 155, 29);
+}
+
+ul > li h3 a {
+    font-size: 23px;
+    text-decoration: none;
+    background-color: antiquewhite;
+    color: rgb(21, 100, 54);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    font-size: 23px;
+    text-decoration: none;
+    background-color: antiquewhite;
+    color: rgb(21, 100, 54);
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+p{
+  font-size: 20px;
+}
+
+.ingredients, .procedure{
+    font-size: 20px;
+}
